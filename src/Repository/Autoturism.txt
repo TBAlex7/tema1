@@ -1,0 +1,7 @@
+6
+PorSche,benzina,1000,30,100
+PorsChe,hibrid,500,40,50
+Porsche,electric,200,55,100
+ToYoTa,benzina,2000,35,1000
+ToyOta,hibrid,1000,45,1000
+TOyOta,electric,100,30,55
